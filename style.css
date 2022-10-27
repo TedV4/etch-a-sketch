@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+   font-size: 36px;
+   font-weight: bold; 
+   margin-top: 2em;
+}
+
+.grid-container {
+    margin-top: 1em;
+    border: 2px black solid;
+    height: 400px;
+    width: 400px;
+}
